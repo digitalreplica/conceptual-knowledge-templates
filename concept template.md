@@ -1,7 +1,7 @@
 ---
 aliases:
 id:
-is:
+is-a:
   - "[[concept]]"
 urls:
 ---
